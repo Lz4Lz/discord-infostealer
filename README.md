@@ -1,4 +1,4 @@
-I wrote this a while back, very bad and messy code. But works, might update or add functionality in the future i guess.
+I wrote this a while back, very bad and messy code. But works, might update or add functionality in the future i guess. This also bypasses Windows Defender.
 
 Information gets sent to a webhook of your choice in the sock.c file. Edit some stuff to your liking, as i wrote before, the code is pretty messy. You can make it into a DLL or exe, whatever you need.
 
